@@ -4,10 +4,25 @@
     background-color: white;
 }
 
-.topbarwrapper {
+.topbarWrapper {
     height: 100%;
     padding: 0px 20px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 30px;
+    color: darkblue;
+    cursor: pointer;
+}
+
+.topbarIconContainer {
+    position: relative;
+}
+
+.topIconBadge {
+    
 }
