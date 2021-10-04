@@ -7,7 +7,7 @@ body {
     margin-top: 10px;
 }
 
-.others {
-    flex: 4;
-    
+.link {
+    text-decoration: none;
+    color: inherit;
 }
